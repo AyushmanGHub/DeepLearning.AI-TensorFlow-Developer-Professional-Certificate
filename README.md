@@ -1,7 +1,7 @@
 # DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
 
 ### These are the notes of "DeepLearning.AI-TensorFlow-Developer-Professional-Certificate" course that I  collected , while learnining it. Most of it are available on Internet and Courses on Coursera.
-<p style="color:blue;"># I was not able to upload the dataset on GitHub, but you can get it from <a href="https://mega.nz/folder/u65WDBpT#Cdy5KITN0znAB7iSiFJJEA" style="color:blue;">this link</a>.</p>
+<p style="color:blue;"> I was not able to upload the dataset on GitHub, but you can get it from <a href="https://mega.nz/folder/u65WDBpT#Cdy5KITN0znAB7iSiFJJEA" style="color:blue;">this link</a>.</p>
 
 ## Hope it Heps you understanding and Learning TensorFlow
 
