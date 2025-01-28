@@ -4,7 +4,7 @@
 # I was not able to upload the dataset on GitHub, but you can get it from <a href="https://mega.nz/folder/u65WDBpT#Cdy5KITN0znAB7iSiFJJEA" style="color:blue;">this link</a>
 
 
-## Hope it Heps you understanding and Learning TensorFlow
+## Hope it Helps you in understanding and Learning TensorFlow
 
 
 ### These conatins Codes, Class Notes and Data sets from `DeepLearning.AI TensorFlow Developer Professional Certificate` on coursera by DeepLearning.AI.
